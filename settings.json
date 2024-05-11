@@ -1,0 +1,32 @@
+{
+    "python.REPL.enableREPLSmartSend": false,
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Nishant",
+            "database": "Nishant_Database",
+            "username": "Nishant",
+            "password": ""
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Nishant296",
+            "database": "Nishant_Database",
+            "username": "Nishant"
+        }
+    ]
+}
